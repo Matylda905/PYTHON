@@ -15,5 +15,5 @@ else:
 if(heslo == heslo2):
     print("shoda")
 else:
-    print("heslo se neshoduje!")
+    print("heslo se neshoduje..!")
 
